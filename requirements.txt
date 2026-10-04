@@ -1,0 +1,4 @@
+biopython==1.88
+pandas
+numpy
+matplotlib
